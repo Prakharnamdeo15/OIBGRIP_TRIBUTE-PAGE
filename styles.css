@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 4em;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+}
+.img1{
+    height: 90vh;
+    float: right;
+    
+}
+.para1{
+    font-family: sans-serif;
+    color: white;
+    padding:2em;
+    font-size: x-large;
+}
+span{
+    color: rgb(19, 126, 233);
+    font-size: 1.5em;
+    padding: 8px;
+}
+.container2{
+    background-color:  rgb(19, 126, 233);
+    margin: 18px 47px;
+
+}
+h2{
+    color:  rgb(19, 126, 233);
+    padding: 20px;
+    text-align: center;
+    font-size:3.5em;
+    font-family: sans-serif;
+}
+.para2{
+    font-family: sans-serif;
+    padding: 50px;
+    font-size: x-large;
+}
+.img2{
+    margin: 13px;
+    height: 70vh;
+    float: left;
+}
+footer{
+    color: white;
+}
